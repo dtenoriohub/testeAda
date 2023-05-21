@@ -4,3 +4,5 @@
 ## teste coment
 
 ## test8
+
+*uso do comando git restore
