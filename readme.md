@@ -7,3 +7,4 @@
 
 
 *teste novo comando
+*new command
